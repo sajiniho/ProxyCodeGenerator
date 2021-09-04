@@ -1,0 +1,9 @@
+
+    public Integer getReportNumber() {
+        return reportNumber;
+    }
+
+    public void setReportNumber(Integer reportNumber) {
+        this.reportNumber = reportNumber;
+    }
+
